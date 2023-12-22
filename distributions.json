@@ -7,7 +7,7 @@
             "name": "Hypixel",
             "description": "",
             "icon": "",
-            "version": "0.0.1",
+            "version": "0.0.2",
             "address": "Hypixel.net",
             "minecraftVersion": "1.19.4",
             "mainServer": true,
