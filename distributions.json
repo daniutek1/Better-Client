@@ -1,0 +1,20 @@
+{
+    "version": "1.0.0",
+    "rss": "https://westeroscraft.com/articles/index.rss",
+    "servers": [
+        {
+            "id": "hypixel",
+            "name": "Hypixel",
+            "description": "",
+            "icon": "",
+            "version": "0.0.1",
+            "address": "Hypixel.net",
+            "minecraftVersion": "1.19.4",
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": [
+                "Module Objects Here"
+            ]
+        }
+    ]
+}
